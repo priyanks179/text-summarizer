@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 30 03:19:50 2018
-
-@author: Kartik
-"""
 
 import numpy as np
 import nltk
@@ -53,7 +47,7 @@ def preprocess(corpus):
     x=sent[:]#did bcoz changes in x got reflected in sentence 
     #while pos tagging in nltk never lowercase text    
     import re
-    pattern=re.compile('\W')#have doubt see ho it works
+    pattern=re.compile('\W')
     for i,sent in enumerate(x):
         x[i]=re.sub(pattern,' ',sent) 
     #above cleaned the data
