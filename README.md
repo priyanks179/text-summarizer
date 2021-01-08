@@ -1,7 +1,7 @@
 #                                                           TEXT SUMMARIZER
 
 
-## In this text summerizer 9 features are hand picked from text that includes
+## In this text summarizer 9 features are hand picked from text that includes
 
 
 1.Number of thematic words
