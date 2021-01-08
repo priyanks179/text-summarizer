@@ -1,4 +1,4 @@
-#                                                           TEXT SUMMERIZER
+#                                                           TEXT SUMMARIZER
 
 
 ## In this text summerizer 9 features are hand picked from text that includes
